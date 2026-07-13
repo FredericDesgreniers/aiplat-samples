@@ -1,0 +1,13 @@
+{
+  "platform": {
+    "artifactStage": true
+  },
+  "fs": {
+    "read": true,
+    "write": true,
+    "list": true,
+    "delete": true
+  },
+  "plugins": ["travel"],
+  "http": []
+}

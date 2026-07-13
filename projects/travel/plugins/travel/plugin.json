@@ -1,0 +1,7 @@
+{
+  "manifestVersion": 1,
+  "name": "travel",
+  "description": "Flight and hotel search with interactive artifact UIs: sortable, filterable lists plus a map view, backed by shared artifact state.",
+  "skills": ["skills/flights.md", "skills/hotels.md"],
+  "tools": ["tools/search-flights.ts", "tools/search-hotels.ts"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Wayfarer",
+  "accent": "#C2410C",
+  "background": "#FAF8F5",
+  "surface": "#FFFFFF",
+  "text": "#1C1917",
+  "textMuted": "#57534E",
+  "radius": "10px"
+}
